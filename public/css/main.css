@@ -1,0 +1,17 @@
+body {
+  font-size: 12px;
+}
+a {
+  cursor: pointer;
+}
+.mod-page {
+  padding-top: 50px;
+}
+@media (max-width: 767px) {
+  .main-sidebar {
+    margin-top: -50px;
+  }
+  .content-wrapper {
+    margin-top: -50px;
+  }
+}
